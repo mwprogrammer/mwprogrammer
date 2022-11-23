@@ -1,3 +1,3 @@
-### Junior Software Engineer
+### Junior Android Engineer
 
-I am currently taking part in the Google Africa Developer Scholarship 2022 Program to learn as much as I can about Android and get certified as an Associate Android Developer.  
+I am currently taking part in the Google Africa Developer Scholarship 2022 Program in collaboration with [Andela](https://andela.com/) and [Pluralsight](https://app.pluralsight.com/library/) to learn Android get certified by Google as an Associate Android Developer.
